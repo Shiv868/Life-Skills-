@@ -1,8 +1,8 @@
-# Full Text Search Performance Investigation
+# Full Text Search 
 
 ## Introduction
 
-Full Text Search is a technique used to search large volumes of unstructured text data efficiently. It supports keyword matching, phrase search, filtering, and relevance ranking. In our new project, the current database driven search system is facing performance and scaling problems due to increasing data size and user traffic. Traditional relational database queries are not optimized for advanced text searching. Hence, the team lead assigned an investigation to evaluate specialized Full Text Search technologies.
+Full Text Search is a method applied to search large amounts of unstructured text data efficiently. It supports keyword searching, phrase searching, filtering, and ranking. In our new project, the existing database-driven search system is currently experiencing performance and scalability issues because of the growing amount of data and user traffic. Conventional relational database queries are not optimized for complex text searches. Therefore, the team lead asked for an investigation to assess specialized Full Text Search tools.
 
 ## Problem Statement
 
