@@ -1,6 +1,6 @@
 # Communication & Listening 
 
----
+
 
 ## Question 1 – Steps / Strategies for Active Listening
 
@@ -9,7 +9,6 @@
 3. Stay mentally focused on the conversation.  
 
 
----
 
 ## Question 2 – Key Elements of Reflective Listening (Fisher’s Model)
 
@@ -17,7 +16,7 @@
 2. Pay attention to emotions and tone.  
 
 
----
+
 
 ## Question 3 – Barriers in the Listening Process
 
@@ -25,7 +24,7 @@
 2. Interrupting before the speaker finishes.  
 
 
----
+
 
 ## 🔹 Question 4 – Ways to Improve Listening Skills
 
@@ -34,7 +33,7 @@
 3. Let the speaker complete their thoughts.  
 
 
----
+
 
 ## Question 5 – Situations Where Passive Communication is Used
 
@@ -43,7 +42,7 @@
 3. While speaking with seniors or authority figures.  
 
 
----
+
 
 ## Question 6 – Situations Where Aggressive Communication is Used
 
@@ -61,7 +60,7 @@
 2. When feeling hurt or ignored.  
 3. Avoiding open confrontation.  
 
----
+
 
 ## Question 8 – Steps to Develop Assertive Communication
 
@@ -69,5 +68,3 @@
 2. Use “I” statements instead of blaming others.  
 3. Respect both your needs and others’ rights.  
 
-
----
