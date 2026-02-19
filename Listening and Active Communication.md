@@ -51,8 +51,7 @@
 2. When experiencing disrespect.  
 3. Under intense stress or pressure.  
 4. During heated arguments.  
-5. When patience is lost.  
-6. When frustration builds repeatedly.
+
 
 ---
 
